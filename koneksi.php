@@ -1,9 +1,9 @@
 <?php
     //Koneksi Lokal
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "db_birdpedia";
+    $servername = "sql6.freemysqlhosting.net";
+    $username = "sql6636993";
+    $password = "gMINIfbPhM";
+    $dbname = "sql6636993";
     
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
